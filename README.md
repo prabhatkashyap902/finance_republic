@@ -24,6 +24,10 @@ I have added a floatingActionButton where user can buy the stock and after click
 
 <img src="https://user-images.githubusercontent.com/19501588/59831644-d10d5980-935f-11e9-9f76-65d45d4b9a6e.png" width="250"><br/><br/>
 The Alertdialog is visible and i have also added the total textview in which it will change the value whenever we enter the no. of stocks and no. of units(TextWatcher).<br/><br/> 
+<img src="https://user-images.githubusercontent.com/19501588/59831741-074ad900-9360-11e9-89a8-4dd45069afad.png" width="250"><br/><br/>
+Added menu also, which includes logout and myprofile.<br/>
+After clicking on Logout it will delete the user from shared Preference and take you to Login page.<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/19501588/59831962-79bbb900-9360-11e9-816a-7e1ad358191d.png" width="250">
-<img src="https://user-images.githubusercontent.com/19501588/59831741-074ad900-9360-11e9-89a8-4dd45069afad.png" width="250">
+
+<img src="https://user-images.githubusercontent.com/19501588/59831962-79bbb900-9360-11e9-816a-7e1ad358191d.png" width="250"><br/><br/>
+This is the my profile page looks like, where all the stocks which you have bought will be displayed with the company_name, Date_of_purchased, Rate_when_purchased, no._of_stocks, no._of_units, Total_purchased_rate, Current_rate, Current_total, difference, and % of change.
