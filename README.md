@@ -15,11 +15,15 @@ I have taken the csv file, converted it into JSON online and used as assets in t
 I have also added floatingActionMenu having 2 floatingActionButton which takes us to the top of the list and to the bottom of the list.<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/19501588/59831612-c5219780-935f-11e9-8498-fa5ba678e3a5.png" width="250"><br/><br/>
+The progressDialog will load the data list.<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/19501588/59831963-7a544f80-9360-11e9-85f7-7e2b6ea18c7f.png" width="250"><br/><br/>
+
 so, when we click on any of the item of RecyclerView  it will show us the date wise stock rate with the company name and the last time the stock has refreshed.<br/><br/>
 I have added a floatingActionButton where user can buy the stock and after clicking on FloatingActionButton, it will open up a Custom Alertdialog.<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/19501588/59831963-7a544f80-9360-11e9-85f7-7e2b6ea18c7f.png" width="250"><br/><br/>
+<img src="https://user-images.githubusercontent.com/19501588/59831644-d10d5980-935f-11e9-9f76-65d45d4b9a6e.png" width="250"><br/><br/>
 The Alertdialog is visible and i have also added the total textview in which it will change the value whenever we enter the no. of stocks and no. of units(TextWatcher).<br/><br/> 
-<img src="https://user-images.githubusercontent.com/19501588/59831644-d10d5980-935f-11e9-9f76-65d45d4b9a6e.png" width="250">
+
 <img src="https://user-images.githubusercontent.com/19501588/59831962-79bbb900-9360-11e9-816a-7e1ad358191d.png" width="250">
 <img src="https://user-images.githubusercontent.com/19501588/59831741-074ad900-9360-11e9-89a8-4dd45069afad.png" width="250">
