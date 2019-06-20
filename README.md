@@ -1,10 +1,10 @@
 # finance_republic
 
 
-<img src="https://user-images.githubusercontent.com/19501588/59831584-b5a24e80-935f-11e9-9b8e-01ff172ab6a3.png" width="250">
+<img src="https://user-images.githubusercontent.com/19501588/59831584-b5a24e80-935f-11e9-9b8e-01ff172ab6a3.png" width="250"><br/>
 
-This is the registration page where user can make portfolio and the data of the user has been submitted to free database online using PHP and mysql for backend.
-<img src="https://user-images.githubusercontent.com/19501588/59831593-baff9900-935f-11e9-978a-7afadbfc9174.png" width="250">
+This is the registration page where user can make portfolio and the data of the user has been submitted to free database online using PHP and mysql for backend.<br/>
+<img src="https://user-images.githubusercontent.com/19501588/59831593-baff9900-935f-11e9-978a-7afadbfc9174.png" width="250"><br/>
 
 This is the login page where it verifies with the online submitted database. 
 
