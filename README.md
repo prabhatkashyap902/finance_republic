@@ -1,6 +1,8 @@
 # finance_republic
 
 ![Screenshot_2019-06-20-13-23-26-226_com prodev myapplication](https://user-images.githubusercontent.com/19501588/59831584-b5a24e80-935f-11e9-9b8e-01ff172ab6a3.png)
+This is the registration page where people can make a portfolio.
+
 ![Screenshot_2019-06-20-13-23-29-685_com prodev myapplication](https://user-images.githubusercontent.com/19501588/59831593-baff9900-935f-11e9-978a-7afadbfc9174.png)
 ![Screenshot_2019-06-20-13-23-44-267_com prodev myapplication](https://user-images.githubusercontent.com/19501588/59831899-5a249080-9360-11e9-8f72-fee68536c7ee.png)
 
